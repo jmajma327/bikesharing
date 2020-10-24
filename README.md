@@ -29,3 +29,8 @@ The purpose of this analysis is to see if Citibike, a bike sharing company in Ne
 
 # Summary
 Our analysis shows that males are the biggest subscribers and users of the bike share program. It also showed that the bike usage is more frequently used during early hour, and late hour on the weekdays probably due to work commutes. It also showed that usage is more during the weekend due to more time for usage by clients. This information is useful for the company to create a new business in a different market. 
+
+•	One way to enhance the data would be to look for the type of use for the bikes like recreational or commutes work related. This will help see where best to place the new businesses.
+
+•	Another way to enhance the data and analysis would be to include data from other surrounding cities in the state. This will allow you to see what areas are more populated in which more people will use the bikes for commutes or leisure. This information will give you data on what areas to set up your new business in new state. 
+
